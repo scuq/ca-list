@@ -38,5 +38,3 @@ ocsp.starfieldtech.com
 ocsp.telekom.de
 ocsp.usertrust.com
 r3.o.lencr.org
-crt.comodoca.com
-crt.usertrust.com
