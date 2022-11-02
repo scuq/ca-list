@@ -1,0 +1,33 @@
+Thumbprint-SHA1;FriendlyName;CPS;Test-Url
+F373B387065A28848AF2F34ACE192BDDC78E9CAC;Actalis Authentication Root CA;https://www.actalis.it/area-download;
+DF717EAA4AD94EC9558499602D48DE5FBCF03A25;IdenTrust Commercial Root CA 1;https://secure.identrust.com/certificates/policy/ts/;
+DF3C24F9BFD666761B268073FE06D1CC8D4F82A4;DigiCert Global Root G2;http://www.digicert.com/CPS;https://global-root-g2.chain-demos.digicert.com/
+DDFB16CD4931C973A2037D3FC83A4D7D775D05E4;DigiCert Trusted Root G4;http://www.digicert.com/CPS;https://trusted-root-g4.chain-demos.digicert.com/
+D69B561148F01C77C54578C10926DF5B856976AD;GlobalSign Root CA - R3;https://www.globalsign.com/repository/;https://valid.r3.roots.globalsign.com/
+D4DE20D05E66FC53FE1A50882C78DB2852CAE474;DigiCert Baltimore Root;http://www.digicert.com/CPS;https://baltimore-cybertrust-root.chain-demos.digicert.com/
+D1EB23A46D17D68FD92564C2F1F1601764D8E349;Sectigo (AAA);https://sectigo.com/CPS;
+CD787A3D5CBA8207082848365E9ACDE9683364D8;A-Trust-Qual-02;https://www.a-trust.at/docs/cps/;
+CABD2A79A1076A31F21D253635CB039D4329A5E8;ISRG Root X1;http://cps.letsencrypt.org;https://valid-isrgrootx1.letsencrypt.org/
+CA3AFBCF1240364B44B216208880483919937CF7;QuoVadis Root CA 2;https://www.quovadisglobal.com/repository/;
+B1BC968BD4F49D622AA89A81F2150152A41D829C;GlobalSign Root CA - R1;https://www.globalsign.com/repository/;https://valid.r3.roots.globalsign.com/
+AFE5D244A8D1194230FF479FE2F897BBCD7A8CB4;Sectigo (formerly Comodo CA);https://sectigo.com/CPS;
+AD7E1C28B064EF8F6003402014C3D0E3370EB58A;Starfield Class 2 Certification Authority;https://certs.godaddy.com/repository/;
+A8985D3A65E5E5C4B2D7D66D40C6DD2FB19C5436;DigiCert;http://www.digicert.com/CPS;https://global-root-ca.chain-demos.digicert.com/
+91C6D6EE3E8AC86384E548C299295C756C817B81;thawte;http://www.digicert.com/CPS;https://thawte-primary-root-ca.chain-demos.digicert.com/
+8CF427FD790C3AD166068DE81E57EFBB932272D4;Entrust.net;http://www.entrust.net/CPS;
+85371CA6E550143DCE2803471BDE3A09E8F8770F;VeriSign;http://www.digicert.com/CPS;
+742C3192E607E424EB4549542BE1BBC53E6174E2;VeriSign Class 3 Public Primary CA;http://www.digicert.com/CPS;
+5FB7EE0633E259DBAD0C4C9AE6D38F1A61C7DC25;DigiCert;http://www.digicert.com/CPS;https://ev-root.chain-demos.digicert.com/
+5D003860F002ED829DEAA41868F788186D62127F;Starfield Technologies Inc.;https://certs.godaddy.com/repository/;
+590D2D7D884F402E617EA562321765CF17D894E9;T-TeleSec GlobalRoot Class 2;http://docs.serverpass.telesec.de/cps/serverpass.htm;
+503006091D97D4F5AE39F7CBE7927D7D652D3431;Entrust (2048);http://www.entrust.net/CPS;
+4EFC31460C619ECAE59C1BCE2C008036D94C84B8;GlobalSign Code Signing Root R45;https://www.globalsign.com/en/repository/;
+4EB6D578499B1CCF5F581EAD56BE3D9B6744A5E5;VeriSign;http://www.digicert.com/CPS;https://verisign-c3-pub-primary-ca-g5.chain-demos.digicert.com/
+47BEABC922EAE80E78783462A79F45C254FDE68B;Go Daddy Root Certificate Authority – G2;https://certs.godaddy.com/repository/;
+3679CA35668772304D30A5FB873B0FA77BB70D54;VeriSign Universal Root Certification Authority;http://www.digicert.com/CPS;
+2E66C9841181C08FB1DFABD4FF8D5CC72BE08F02;A-Trust-Root-05;https://www.a-trust.at/docs/cps/;
+2B8F1B57330DBBA2D07A6C51F70EE90DDAB9AD8E;Sectigo;https://sectigo.com/CPS;
+2A1D6027D94AB10A1C4D915CCD33A0CB3E2D54CB;GTS Root R4;https://pki.goog/repository/;
+2796BAE63F1801E277261BA0D77770028F20EEE4;Go Daddy Class 2 Certification Authority;https://certs.godaddy.com/repository/;
+093C61F38B8BDC7D55DF7538020500E125F5C836;QuoVadis Root CA 2 G3;https://www.quovadisglobal.com/repository/;
+07E032E020B72C3F192F0628A2593A19A70F069E;Certum Trusted Network;https://files.certum.eu/documents/repsitory/;
